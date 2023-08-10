@@ -1,4 +1,4 @@
-# [Joke-Generator](https://github.io/kavya208/Joke-Generator)
+# [Joke-Generator](https://kavya208.github.io/Joke-Generator/)
 
 A light-hearted web application that fetches and displays random jokes from an API. Perfect for a quick laugh or to lighten up your day!
 
